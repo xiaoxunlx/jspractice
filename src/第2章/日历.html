@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>日历</title>
+    <style>
+        body{background:skyblue;}
+        #tab {height:700px;width:440px;background:gray;margin-left:500px;margin-top:10px;position:absolute;}
+        #tab ul{margin-top:20px;}
+        #tab ul li{list-style:none;height:100px;width:100px;background:black;float:left;margin:10px;text-align:center;border:1px solid #000;color:white;}
+        #tab .active{background:white;color:red;}
+
+        .text{background:white;height:150px;width:335px;font-size:15px;margin-top:520px;margin-left:50px;position:relative;border:2px solid blue;padding-left:10px;}
+    </style>
+    <script>
+        window.onload=function () {
+            var arr = [
+                '千家万户曈曈日,总把新桃换旧符。',
+                '不知细叶谁裁出,二月春风似剪刀。',
+                '故人西辞黄鹤楼,烟花三月下扬州。',
+                '人间四月芳菲尽,山寺桃花始盛开。',
+                '田家少闲月，五月人倍忙。',
+                '毕竟西湖六月中，风光不与四时同。',
+                '七月七日长生殿，夜半无人私语时。',
+                '今夜月明人尽望，不知秋思落谁家。',
+                '可怜九月初三夜，露似珍珠月似弓。',
+                '孟冬十月，北风徘徊。',
+                '夜阑卧听风吹雨，铁马冰河入梦来。',
+                '沉沉更鼓急，渐渐人声绝。 吹灯窗更明，月照一天雪。'
+            ];
+            var oDiv = document.getElementById('tab');
+            var oLi = oDiv.getElementsByTagName('li');
+            var oTxt = oDiv.getElementsByTagName('div')[0];
+            for (var i=0;i<oLi.length;i++){
+                oLi[i].index=i;
+                oLi[i].onmouseover=function () {
+                    for (var i=0;i<oLi.length;i++){
+                        oLi[i].className='';
+                    }
+                    this.className='active';
+                    oTxt.innerHTML='<h2>'+(this.index+1)+'月</h2>\n' +
+                        '        <p>'+arr[this.index]+'</p>';
+                }
+            }
+        };
+    </script>
+</head>
+<body>
+<div id="tab" class="calender">
+    <ul>
+        <li class="active"><h2>1</h2><p>JAN</p></li>
+        <li><h2>2</h2><p>FEB</p></li>
+        <li><h2>3</h2><p>MAR</p></li>
+        <li><h2>4</h2><p>APR</p></li>
+        <li><h2>5</h2><p>MAY</p></li>
+        <li><h2>6</h2><p>JUN</p></li>
+        <li><h2>7</h2><p>JUL</p></li>
+        <li><h2>8</h2><p>AUG</p></li>
+        <li><h2>9</h2><p>SEP</p></li>
+        <li><h2>10</h2><p>OCT</p></li>
+        <li><h2>11</h2><p>NOV</p></li>
+        <li><h2>12</h2><p>DEC</p></li>
+    </ul>
+    <div class="text">
+        <h2>1月</h2>
+        <p>千家万户曈曈日,总把新桃换旧符。</p>
+    </div>
+</div>
+
+</body>
+</html>

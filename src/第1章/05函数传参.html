@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1{
+            width: 200px;
+            height: 200px;
+            background: aqua;
+        }
+    </style>
+    <script>
+        function color(color) {
+            var oDiv = document.getElementById('div1');
+            oDiv.style.background=color;
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="变绿" onclick="color('green')">
+<input type="button" value="变黄" onclick="color('yellow')">
+<input type="button" value="变红" onclick="color('red')">
+<div id="div1"></div>
+</body>
+</html>

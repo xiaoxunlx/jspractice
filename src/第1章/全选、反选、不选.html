@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>复选框</title>
+    <script>
+        window.onload=function () {
+            var Btn1 = document.getElementById('btn1');
+            var Btn2 = document.getElementById('btn2');
+            var Btn3 = document.getElementById('btn3');
+            var A = document.getElementById('div1');
+            var box = A.getElementsByTagName('input');
+            Btn1.onclick=function () {
+                for (var i=0;i<box.length;i++){
+                    box[i].checked=true;
+                }
+            };
+            Btn2.onclick=function () {
+                for (var i=0;i<box.length;i++){
+                    box[i].checked=false;
+                }
+            };
+            Btn3.onclick=function () {
+                for (var i=0;i<box.length;i++){
+                    if (box[i].checked == true){
+                        box[i].checked=false;
+                    } else {
+                        box[i].checked=true;
+                    }
+                }
+            }
+
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="全选" id="btn1"><br>
+<input type="button" value="不选" id="btn2"><br>
+<input type="button" value="反选" id="btn3"><br>
+<div id="div1">
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+<input type="checkbox"><br>
+</div>
+</body>
+</html>

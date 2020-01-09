@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #div1{
+            width: 200px;
+            height: 200px;
+            background: aqua;
+        }
+    </style>
+    <script>
+        function changeDiv(name,value) {
+            var oDiv = document.getElementById('div1');
+            oDiv.style[name]=value;
+        }
+    </script>
+</head>
+<body>
+<input type="button" value="变宽" onclick="changeDiv('width','400px')" title="111">
+<input type="button" value="变高" onclick="changeDiv('height','400px')">
+<input type="button" value="变绿" onclick="changeDiv('background','green')">
+<div id="div1"></div>
+</body>
+</html>

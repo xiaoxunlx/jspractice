@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>js函数</title>
+    <style>
+        #div1{
+            width: 200px;
+            height: 200px;
+            background: aqua;
+        }
+    </style>
+    <script>
+        function togreen() {
+            var odiv=document.getElementById('div1');
+            odiv.style.background='green';
+            odiv.style.width='300px';
+            odiv.style.height='300px';
+        }
+        function tored() {
+            var odiv=document.getElementById('div1');
+            odiv.style.background='red';
+            odiv.style.width='200px';
+            odiv.style.height='200px';
+        }
+    </script>
+</head>
+<body>
+<div id="div1" onmouseover="togreen()"
+     onmouseout="tored()">
+</div>
+</body>
+</html>

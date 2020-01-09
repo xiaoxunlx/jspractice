@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>innerHtml</title>
+    <style>
+        #div1{
+            width: 200px;
+            height: 200px;
+            border: 1px solid chartreuse;
+        }
+    </style>
+    <script>
+        window.onload=function () {
+            var oTxt = document.getElementById('txt1');
+            var oBtn = document.getElementById('btn1');
+            var oDiv = document.getElementById('div1');
+            oBtn.onclick=function () {
+                oDiv.innerHTML=oTxt.value;
+            }
+        }
+    </script>
+</head>
+<body>
+<input type="text" id="txt1">
+<input type="button" value="改变文字" id="btn1">
+<div id="div1"></div>
+</body>
+</html>
