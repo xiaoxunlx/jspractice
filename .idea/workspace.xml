@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06710028-ad1b-44b6-b417-3fc386dfdc6c" name="默认更改列表" comment="" />
+    <list default="true" id="06710028-ad1b-44b6-b417-3fc386dfdc6c" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/five.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/month.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/seven.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/six.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/title.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/week.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/year.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/zns.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/01定时器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/创建子节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/定时器开关.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/延迟提示框.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/时钟.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第4章/节点.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,49 +47,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js练习/第3章/字符串转数字.html">
+        <entry file="file://$PROJECT_DIR$/src/第4章/节点.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js练习/第3章/隔行变色.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js练习/第3章/css函数.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js练习/第3章/数组.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js练习/第3章/数组排序.html">
+        <entry file="file://$PROJECT_DIR$/src/第4章/创建子节点.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="380">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -98,6 +100,12 @@
         <option value="$PROJECT_DIR$/js练习/第3章/css函数.html" />
         <option value="$PROJECT_DIR$/js练习/第3章/数组.html" />
         <option value="$PROJECT_DIR$/js练习/第3章/数组排序.html" />
+        <option value="$PROJECT_DIR$/src/第四章/01定时器.html" />
+        <option value="$PROJECT_DIR$/src/第四章/定时器开关.html" />
+        <option value="$PROJECT_DIR$/src/第4章/时钟.html" />
+        <option value="$PROJECT_DIR$/src/第4章/延迟提示框.html" />
+        <option value="$PROJECT_DIR$/src/第4章/节点.html" />
+        <option value="$PROJECT_DIR$/src/第4章/创建子节点.html" />
       </list>
     </option>
   </component>
@@ -109,15 +117,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="350" />
     <option name="width" value="1250" />
     <option name="height" value="940" />
   </component>
@@ -139,13 +140,13 @@
             <path>
               <item name="jsproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsproject" type="462c0819:PsiDirectoryNode" />
-              <item name="js练习" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jsproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsproject" type="462c0819:PsiDirectoryNode" />
-              <item name="js练习" type="462c0819:PsiDirectoryNode" />
-              <item name="第3章" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="第4章" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,9 +155,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -170,6 +174,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\迅\IdeaProjects\jsproject\src\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,17 +205,17 @@
       <workItem from="1578377785336" duration="11217000" />
       <workItem from="1578448376602" duration="12606000" />
       <workItem from="1578465199719" duration="5872000" />
-      <workItem from="1578532496167" duration="637000" />
+      <workItem from="1578532496167" duration="11049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30332000" />
+    <option name="totallyTimeSpent" value="40744000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-18" y="0" width="1000" height="752" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27282378" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="设计器" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -223,7 +232,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.37580645" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33002833" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -240,84 +249,84 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js练习/css样式/css1.css">
+    <entry file="file://$PROJECT_DIR$/src/css样式/css1.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/03.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/css样式/css2.css">
+    <entry file="file://$PROJECT_DIR$/src/css样式/css2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/02.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/04按钮隐藏.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/04按钮隐藏.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/05函数传参.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/05函数传参.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/06div样式改变.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/06div样式改变.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="70" lean-forward="true" selection-start-line="21" selection-start-column="70" selection-end-line="21" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/07提取事件.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/07提取事件.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/ByName.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/ByName.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="47" lean-forward="true" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第1章/全选、反选、不选.html">
+    <entry file="file://$PROJECT_DIR$/src/第1章/全选、反选、不选.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
           <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第2章/02innerHtml用法.html">
+    <entry file="file://$PROJECT_DIR$/src/第2章/02innerHtml用法.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第2章/01选项卡.html">
+    <entry file="file://$PROJECT_DIR$/src/第2章/01选项卡.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
@@ -327,31 +336,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/css样式/日历.css">
+    <entry file="file://$PROJECT_DIR$/src/css样式/日历.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第2章/日历.html">
+    <entry file="file://$PROJECT_DIR$/src/第2章/日历.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="48" column="31" lean-forward="true" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第3章/字符串转数字.html">
+    <entry file="file://$PROJECT_DIR$/src/第3章/字符串转数字.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第3章/隔行变色.html">
+    <entry file="file://$PROJECT_DIR$/src/第3章/隔行变色.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第3章/css函数.html">
+    <entry file="file://$PROJECT_DIR$/src/第3章/css函数.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -361,17 +370,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第3章/数组.html">
+    <entry file="file://$PROJECT_DIR$/src/第3章/数组.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js练习/第3章/数组排序.html">
+    <entry file="file://$PROJECT_DIR$/src/第3章/数组排序.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="361">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/01定时器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/定时器开关.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/时钟.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/延迟提示框.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/节点.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/第4章/创建子节点.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>

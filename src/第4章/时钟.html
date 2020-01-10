@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>time</title>
+    <style>
+        body{
+            background: black;
+            color: aliceblue;
+            font-size: 50px;
+        }
+    </style>
+    <script>
+        function toDouble(n) {
+            if (n<10){
+                return "0"+n;
+            } else {
+                return ""+n;
+            }
+        }
+        window.onload=function () {
+            var aImg = document.getElementsByTagName('img');
+            function tick() {
+                var oDate = new Date();
+                var str = toDouble(oDate.getHours())+toDouble(oDate.getMinutes())+toDouble(oDate.getSeconds());
+                for (var i=0;i<aImg.length;i++){
+                    aImg[i].src='../images/'+str[i]+'.png';
+                }
+            }
+            setInterval(tick,1000);
+            tick();
+        }
+    </script>
+</head>
+<body>
+<img src="../images/0.png" />
+<img src="../images/0.png" />
+:
+<img src="../images/0.png" />
+<img src="../images/0.png" />
+:
+<img src="../images/0.png" />
+<img src="../images/0.png" />
+</body>
+</html>
